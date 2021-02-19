@@ -1,0 +1,126 @@
+header {
+    color: white;
+    text-align: center;
+    background-color: #095F60;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 80px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.header-title {
+
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+body {
+    /* margin: 0 0 100px; */
+
+    padding: 25px;
+}
+
+.container {
+
+    margin: auto auto;
+
+}
+
+footer p {
+
+    padding-top: 15px;
+
+}
+
+footer {
+
+    color: white;
+    text-align: center;
+    background-color: #095F60;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+#form-container {
+
+    padding-bottom: 20px;
+    align-items: center;
+    text-align: center;
+
+}
+
+#receipe-search {
+
+    width: 100%;
+}
+
+#recipe-header {
+
+    margin-top: 3.5rem;
+    color: #02a794;
+
+}
+
+#recipe-label {
+
+    padding-bottom: 30px;
+}
+
+#receipe-rows-container {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+
+}
+
+.card {
+
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+    width: 230px;
+
+}
+
+.recipe-container img {
+
+    width: 230px;
+    height: auto;
+}
+
+
+h6 {
+
+    padding-top: 5px;
+
+}
+
+.recipe-category {
+
+    padding-bottom: 10px;
+}
+
+
+.btn {
+
+    margin: auto auto;
+    width: 70%;
+    text-align: center;
+    background-color: #02a794;
+}
