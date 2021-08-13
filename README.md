@@ -1,5 +1,10 @@
 # Recipe-API
  JavaScript project that usings the MealDB API to search the users input and return the query results.
+ 
+## Technologies Used
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square"/>
 
 ## Legend
 
