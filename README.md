@@ -26,5 +26,5 @@ Free API used for this project:
 - [The MealDB](https://www.themealdb.com/)
 
 ## Live Demo
-View the live demo: [Recipe API - Live Demo](https://lindseygunderson.ca/project/recipe-api/)
+View the live demo: [Recipe API - Live Demo](https://recipeapi.lindseygunderson.ca/)
 
